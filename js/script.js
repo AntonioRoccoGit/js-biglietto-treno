@@ -33,7 +33,6 @@ console.log(isNaN(kmtrNumber));
         }else {
             document.getElementById("main-txt").innerHTML = `Il prezzo del biglietto è: ${(mainPrice).toFixed(2)}€`;
         }
-
     }
 }
 
