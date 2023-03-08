@@ -1,0 +1,8 @@
+body {
+    background-color: aqua;
+}
+
+.container-fluid {
+    height: 100vh;
+    justify-content: center;
+}
